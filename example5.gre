@@ -1,0 +1,1 @@
+grep -V=1.2 -v -y -reg="Retained;Debug Startup Option;" -find=C:\tmp\GPB2\;*.vbp; -recurse 

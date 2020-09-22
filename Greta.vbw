@@ -1,0 +1,8 @@
+frmGreta = 44, 44, 480, 396, , 22, 22, 458, 374, 
+GrepAndOtherUsefuls = 66, 66, 502, 418, 
+GrepCaseInsensitive = 154, 154, 590, 506, 
+GrepCase = 110, 110, 534, 462, 
+FileFinder = 0, 0, 399, 352, 
+frmFindFiles = 176, 176, 601, 528, , 154, 154, 579, 506, 
+frmChooseDir = 66, 66, 474, 418, , 44, 44, 452, 396, 
+GrepMain = 44, 44, 448, 396, Z

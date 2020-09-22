@@ -1,0 +1,1 @@
+grep -V=1.2 -y -z1 -post=10 -reg="1.2" README.txt -recurse 
