@@ -1,0 +1,1 @@
+grep -V=1.2 -y -z1 -n -pre=1 -post=4 -reg="regular" README.txt -recurse 

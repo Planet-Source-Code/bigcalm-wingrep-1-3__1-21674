@@ -1,0 +1,1 @@
+grep -V=1.2 -x -y -l2 -z2 -n -reg="'*" -find="C:\Program Files\";*.bas;*.vbp;*.ctl;*.cls;*.frm;*.pag;*.res; -recurse 

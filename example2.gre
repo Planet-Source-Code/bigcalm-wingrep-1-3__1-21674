@@ -1,0 +1,1 @@
+grep -V=1.2 -y -l1 -z1 -n -pre=2 -post=2 -reg="windows" -find=C:\;*.log; 

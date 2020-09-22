@@ -1,0 +1,1 @@
+grep -V=1.2 -y -l2 -c -reg="BitBlt;timeGetTime" -find="C:\Program Files\DevStudio\VB\";*.bas;*.vbp;*.ctl;*.cls;*.frm;*.pag;*.res; -recurse 
